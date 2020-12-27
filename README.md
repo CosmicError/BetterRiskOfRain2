@@ -14,28 +14,30 @@ DropItem - click on the desired item in your invintory to drop the item
 
 BepInEx - https://thunderstore.io/package/bbepis/BepInExPack/
 
-R2API - https://thunderstore.io/package/tristanmcpherson/R2API/
-
-DropItem - https://thunderstore.io/package/ThinkInvis/Yeet/
-
-LunarScrap - https://thunderstore.io/package/Windows10CE/LunarScrap/
-
-PostBossVengenceRevive - https://thunderstore.io/package/Melting-Cube/BossVengenceRevive/
-
-DropInMultiplayer - https://thunderstore.io/package/niwith/DropinMultiplayer/
-
-LobbyVotesSave - https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/
-
-FadeEmptyChests - https://thunderstore.io/package/SSM24/FadeEmptyChests/
+Betterdrones - https://thunderstore.io/package/lalgendedeQubec/Betterdrone/
 
 BetterUI - https://thunderstore.io/package/XoXFaby/BetterUI/
 
+DropItem - https://thunderstore.io/package/ThinkInvis/Yeet/
+
+DropInMultiplayer - https://thunderstore.io/package/niwith/DropinMultiplayer/
+
+Dio2TougherTimes - https://thunderstore.io/package/kking117/DioToTougherTimes/
+
 F5ForConsole - https://thunderstore.io/package/kristiansja/KeyBindForConsole/
 
-SafeMenus - https://thunderstore.io/package/mries92/SafeMenus/
+FadeEmptyChests - https://thunderstore.io/package/SSM24/FadeEmptyChests/
+
+LunarScrap - https://thunderstore.io/package/Windows10CE/LunarScrap/
+
+LobbyVotesSave - https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/
+
+PostBossVengenceRevive - https://thunderstore.io/package/Melting-Cube/BossVengenceRevive/
 
 PauseInMultiplayer - https://thunderstore.io/package/Constant-ine/PauseInMultiplayer/
 
-Dio2TougherTimes - https://thunderstore.io/package/kking117/DioToTougherTimes/
+R2API - https://thunderstore.io/package/tristanmcpherson/R2API/
+
+SafeMenus - https://thunderstore.io/package/mries92/SafeMenus/
 
 TooManyFriends - https://thunderstore.io/package/wildbook/TooManyFriends/
