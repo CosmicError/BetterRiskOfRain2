@@ -14,8 +14,6 @@ DropItem - https://thunderstore.io/package/ThinkInvis/Yeet/
 
 LunarScrap - https://thunderstore.io/package/Windows10CE/LunarScrap/
 
-MicrobotsFix - https://thunderstore.io/package/rob/MicrobotsFix/
-
 PostBossVengenceRevive - https://thunderstore.io/package/Melting-Cube/BossVengenceRevive/
 
 DropInMultiplayer - https://thunderstore.io/package/niwith/DropinMultiplayer/
@@ -35,5 +33,3 @@ PauseInMultiplayer - https://thunderstore.io/package/Constant-ine/PauseInMultipl
 Dio2TougherTimes - https://thunderstore.io/package/kking117/DioToTougherTimes/
 
 TooManyFriends - https://thunderstore.io/package/wildbook/TooManyFriends/
-
-ForesightArtifact - https://thunderstore.io/package/SpacePotato/ForesightArtifact/
