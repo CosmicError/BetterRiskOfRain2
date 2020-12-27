@@ -3,6 +3,12 @@
 2) open zip -> BetterRiskOfRain2
 3) Drag and drop BepInEx into `C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\`
 
+# HELP
+Pause in multiplayer - type `plspause` in chat to pause
+
+F5ForConsole - Hit F5
+
+DropItem - click on the desired item in your invintory to drop the item
 
 # MOD SOURCES
 
