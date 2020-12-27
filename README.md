@@ -27,3 +27,7 @@ SafeMenus - https://thunderstore.io/package/mries92/SafeMenus/
 PauseInMultiplayer - https://thunderstore.io/package/Constant-ine/PauseInMultiplayer/
 
 Dio2TougherTimes - https://thunderstore.io/package/kking117/DioToTougherTimes/
+
+TooManyFriends - https://thunderstore.io/package/wildbook/TooManyFriends/
+
+ForesightArtifact - https://thunderstore.io/package/SpacePotato/ForesightArtifact/
