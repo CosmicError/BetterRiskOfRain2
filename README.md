@@ -1,3 +1,9 @@
+# SETUP
+1) Download into zip
+2) open zip -> BetterRiskOfRain2
+3) Drag and drop BepInEx into `C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\`
+
+
 # MOD SOURCES
 
 BepInEx - https://thunderstore.io/package/bbepis/BepInExPack/
