@@ -6,7 +6,7 @@
 # HELP
 Pause in multiplayer - type `plspause` in chat to pause
 
-F5ForConsole - Hit F5
+F5ForConsole - Hit `F5`
 
 DropItem - click on the desired item in your invintory to drop the item
 
