@@ -1,6 +1,4 @@
-# BetterRiskOfRain2
-
-MOD SOURCES:
+#MOD SOURCES:
 
 BepInEx - https://thunderstore.io/package/bbepis/BepInExPack/
 
