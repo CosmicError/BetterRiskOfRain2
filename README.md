@@ -3,6 +3,10 @@
 2) open zip -> open BetterRiskOfRain2
 3) Drag and drop everything inside of the BetterRiskOfRain2-main folder into `C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\`
 
+# MOD MANAGER CODES
+
+Forcast - `GZEH4`
+
 # HELP
 Pause in multiplayer - type `plspause` in chat to pause
 
