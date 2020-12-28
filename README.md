@@ -28,9 +28,9 @@ F5ForConsole - https://thunderstore.io/package/kristiansja/KeyBindForConsole/
 
 FadeEmptyChests - https://thunderstore.io/package/SSM24/FadeEmptyChests/
 
-LunarScrap - https://thunderstore.io/package/Windows10CE/LunarScrap/
-
 LobbyVotesSave - https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/
+
+LobbyManagment - https://thunderstore.io/package/Lodington/LobbyManagement/
 
 PostBossVengenceRevive - https://thunderstore.io/package/Melting-Cube/BossVengenceRevive/
 
